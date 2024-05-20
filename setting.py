@@ -1,0 +1,3 @@
+TOKEN = 'token'
+CHANNEL_ID = '1241732681264271441'
+FILE_URL = 'nothing'
